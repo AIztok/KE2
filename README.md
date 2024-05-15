@@ -5,7 +5,7 @@ Inhalt:
 
 [000. Allgemein](https://aiztok.github.io/KE2/000_Allgemein.html)
 
-[010. Aufgaben- und Bauwerksbeschreibung](https://aiztok.github.io/SBB/010_Aufgaben-_und_Bauwerksbeschreibung.html)
+[010. Aufgaben- und Bauwerksbeschreibung](https://aiztok.github.io/KE2/010_Aufgaben-_und_Bauwerksbeschreibung.html)
 
 [011. Materialwahl](https://aiztok.github.io/KE2/011_Materialwahl.html)
 
