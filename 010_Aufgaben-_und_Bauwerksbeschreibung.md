@@ -71,5 +71,5 @@ Wesentlich ist die Ermittlung und Angabe der Schadensfolgeklasse gem. ÖEN 1990 
 
 
 
-[Zurück zum Inhaltsverzeichnis](https://aiztok.github.io/KE2/https://aiztok.github.io/KE2/)
+[Zurück zum Inhaltsverzeichnis](https://aiztok.github.io/KE2)
 
