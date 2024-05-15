@@ -13,8 +13,9 @@ Inhalt:
 
 [020. Einwirkungen und EWK](https://aiztok.github.io/KE2/020_Einwirkungen_und_EWK.html)
 
-[030. Einwirkungen und EWK](https://aiztok.github.io/KE2/030_Bemessung.html)
+[030. Bemessung](https://aiztok.github.io/KE2/030_Bemessung.html)
 
-[031. Einwirkungen und EWK](https://aiztok.github.io/KE2/031_Heißbemessung.html)
+[031. Heißbemessung](https://aiztok.github.io/KE2/031_Heißbemessung.html)
 
-[040. Einwirkungen und EWK](https://aiztok.github.io/KE2/040_Beispiele_Pläne.html)
+[040. Beispiele Pläne](https://aiztok.github.io/KE2/040_Beispiele_Pläne.html)
+
