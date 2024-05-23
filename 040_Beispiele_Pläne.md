@@ -37,7 +37,9 @@ Beispiele der Pläne sind im Moodle der LVA zu finden.
 Der folgende Text ist teilweise übernommen von:
 
 [https://schal-und-bewehrungsplan.de/schalplane/](https://schal-und-bewehrungsplan.de/schalplane/)
+
 und
+
 [https://schal-und-bewehrungsplan.de/bewehrungsplane/](https://schal-und-bewehrungsplan.de/bewehrungsplane/)
 
 Auf den oberen zwei Seiten sind auch Planvorlagen vorhanden.
