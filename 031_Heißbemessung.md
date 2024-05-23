@@ -38,6 +38,15 @@ Ein guter Überblick und Erläuterung ist auch im [Merkblatt Nr.7 des FDB zu fin
 
 ## Holz
 
+Für ein mit dem Mentor gewähltes Bauteil (z.B. Träger, oder Stütze) ist das vereinfachte Nachweisverfahren nach ÖEN 1995-1-2, das auf einer definierten Abbrandrate basiert, anzuwenden.
+Wesentliche Punkte:
+- Ermittlung der Materialfestigkeit im Brandfall
+- Ermittlung der Schnittgrößen für die Einwirkungskombination Brandfall
+- Ermittlung der Querschnittsmaße im Brandfall (Abbrandrate, Abbrandseiten des Querschnitts)
+- Nachweisführung für die erforderliche Feuerwiederstandsklasse
+- Aussage ob Nachweis erfüllt oder ob zusätzliche Maßnahmen (Verkleidung) erforderlich
+
+Für weitere Informationen und Rechenbeispiele siehe das Skriptum zu der LVA *Konstruktiver Holzbau 2 (KHB2_Brandbemessung)*.
 
 ## Mauerwerk
 
