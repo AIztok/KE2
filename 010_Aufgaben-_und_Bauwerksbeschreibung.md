@@ -16,7 +16,7 @@ Anbei eine Auflistung von Bauweisen (keine vollständige Liste):
 - Skelettbau (oft Fertigteilbau aus Fertigteilstützen, Binderträgern und Hohldecken)
 - Massivbau (Ortbeton und/oder Betonfertigteile)
 
-![[010_Betonskelettbau.png]]
+![010_Betonskelettbau.png](/docs/assets/images/010_Betonskelettbau.png)
 Betonskelettbau (Quelle [beton.org](https://www.beton.org/betonbau/beton-und-bautechnik/wirtschaftshochbau/stuetzen-als-betonfertigteil/)) 
 
 ## Holzbau:
@@ -24,13 +24,13 @@ Betonskelettbau (Quelle [beton.org](https://www.beton.org/betonbau/beton-und-bau
 - Holzrahmenbau
 - Holzmassivbauweise (z.B. Brett)
 
-![[010_Holzskelettbau.png]]
+![010_Holzskelettbau.png](/docs/assets/images/010_Holzskelettbau.png)
 Holzskelettbau (Quelle [meyer-holz-bau](https://www.meyer-holz-bau.de/))
 
-![[010_Holzrahmenbau.png]]
+![010_Holzrahmenbau.png](/docs/assets/images/010_Holzrahmenbau.png)
 Holzrahmenbau (Quelle [meisterfachbetrieb Schuler](https://www.meisterfachbetrieb-schuler.de/))
 
-![[010_Holzmassivbau.png]]
+![010_Holzmassivbau.png](/docs/assets/images/010_Holzmassivbau.png)
 Holzmassivbau (Quelle [KLH](https://www.klh.at/))
 
 ## Holz-Beton-Verbund:
@@ -48,7 +48,7 @@ Stahlskelettbau mit seinen Untergruppen:
 
 Siehe auch [Stahlgeschossbau auf bauforumstahl](https://bauforumstahl.de/wp-content/uploads/2024/02/D612a.pdf).
 
-![[010_Stahlskelettbau.png]]
+![010_Stahlskelettbau.png](/docs/assets/images/010_Stahlskelettbau.png)
 Stahlskelettbau (Quelle bauforumstahl)
 
 ## Stahl-Beton-Verbund:
@@ -70,6 +70,4 @@ Beispiele:
 Wesentlich ist die Ermittlung und Angabe der Schadensfolgeklasse gem. ÖEN 1990 (achten auch auf die Ermittlung der Personenanzahl).
 
 
-
-[Zurück zum Inhaltsverzeichnis](https://aiztok.github.io/KE2)
-
+[Zurück zum Inhaltsverzeichnis](https://aiztok.github.io/KE2/)
