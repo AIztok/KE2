@@ -55,7 +55,7 @@ hoch (H) -> 15 bis 25 Jahre
 sehr hoch (VH) -> über 25 Jahre
 
 Tabelle Korrosionsbelastung entnommen von [bauforumstahl](https://bauforumstahl.de/wp-content/uploads/2024/02/sta.01.0.pdf)
-![[011_Korrosivitaetskategorie.png]]
+![011_Korrosivitaetskategorie.png](/docs/assets/images/011_Korrosivitaetskategorie.png)
 
 Mehr zum Korrosionsschutz beim [Bundesverband-KO-Schutz](https://www.bundesverband-korrosionsschutz.de/fileadmin/platzhirsche/mitglieder/2/233566/Publikationen/Verbaendemerkblatt_Planung_KS-Arbeiten.pdf).
 # Mauerwerk
@@ -84,3 +84,6 @@ Zusätzlich ist die gewählte Verdübelung zw. den beiden Baustoffen anzugeben (
 
 Entspricht den Angaben von Beton und Holz oben.
 Zusätzlich ist die gewählte Verdübelung zw. den beiden Baustoffen anzugeben.
+
+
+[Zurück zum Inhaltsverzeichnis](https://aiztok.github.io/KE2/)
