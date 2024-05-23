@@ -37,7 +37,7 @@ Für die Ermittlung der Wandkräfte wird zu Veranschaulichung ein Excel zur Verf
 
 Es ist nicht zwingend dieses Excel zu verwenden.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTwtSU6AEHJBOXz0Ihya1xfXPqBFULqfDs7aE34WBWhYMnWZAJEUXwQ2s0P1oQjrg/pubhtml?gid=1653643462&amp;single=true&amp;widget=true&amp;headers=false"
+<iframe src="http://docs.google.com/spreadsheets/d/e/2PACX-1vTwtSU6AEHJBOXz0Ihya1xfXPqBFULqfDs7aE34WBWhYMnWZAJEUXwQ2s0P1oQjrg/pubhtml?gid=1653643462&amp;single=true&amp;widget=true&amp;headers=false"
 width=100% height=500
 ></iframe>
 
