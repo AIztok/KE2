@@ -35,11 +35,13 @@ Beispiele der Pläne sind im Moodle der LVA zu finden.
 # Schal- und Bewehrungsplan
 
 Der folgende Text ist teilweise übernommen von:
-https://schal-und-bewehrungsplan.de/schalplane/
+
+[https://schal-und-bewehrungsplan.de/schalplane/](https://schal-und-bewehrungsplan.de/schalplane/)
 und
-https://schal-und-bewehrungsplan.de/bewehrungsplane/
+[https://schal-und-bewehrungsplan.de/bewehrungsplane/](https://schal-und-bewehrungsplan.de/bewehrungsplane/)
 
 Auf den oberen zwei Seiten sind auch Planvorlagen vorhanden.
+
 ## Schalpläne
 
 Die Schalpläne sind detaillierte Pläne der Tragstruktur aus Stahlbeton, die dem Ausführungsunternehmen als Vorlage für die Erstellung der Schalung für Stahlbetonkonstruktionen dienen. Sie sind Teil der Ausführungszeichnungen im Maßstab 1:50 und bilden die Grundlage für die Bewehrungspläne. Diese stellen den nächsten Schritt dar und zeigen die Bewehrung, die nach Positionen einzubauen ist. Beide Pläne basieren auf der vorherigen statischen Berechnung.
