@@ -17,5 +17,7 @@ Inhalt:
 
 [031. Heißbemessung](https://aiztok.github.io/KE2/031_Heißbemessung.html)
 
+[032. Erdbebenbemessung](https://aiztok.github.io/KE2/032_Erdbebenbemessung.html)
+
 [040. Beispiele Pläne](https://aiztok.github.io/KE2/040_Beispiele_Pläne.html)
 
